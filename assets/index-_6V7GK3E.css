@@ -1,0 +1,1 @@
+@media (prefers-color-scheme: dark){:root{background-color:#111;color:#fff}}#board{display:flex}.board-queue{display:flex;flex-direction:column;flex-wrap:wrap}#game,#text{border:5px solid black;margin:2px}#game{display:flex;justify-content:center;flex:0 1 auto}#text{flex:1;display:grid;place-items:center}body{display:flex}
